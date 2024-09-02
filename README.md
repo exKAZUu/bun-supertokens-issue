@@ -1,6 +1,6 @@
 # bun-supertokens-issue
 
-A reproduction repo for an issue of Bun v1.1.26 incompatible with SuperTokens.
+A reproduction repo for an issue of Bun v1.1.26 incompatible with `JsonWebToken`.
 
 ## How to reproduce the issue
 1. `asdf install` (it installs Bun v1.1.26 and Node.js v20.17.0 locally.)
